@@ -1,6 +1,7 @@
 # hamburger_app
 
-A new Flutter project.
+Flutter app UI MVP project.  
+youtube source: https://www.youtube.com/watch?v=oxkWsG3nsRQ&list=PL82uaKJraAIKuLcXRuO25RQiRE5JKAOT7
 
 ## Getting Started
 
